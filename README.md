@@ -6,7 +6,7 @@ Aqui você poderá encontrar códigos dos meus projetos pessoais.
 
 
 <p align="center">
-	<a href="https://github.com/siq.andressa"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://github.com/siqandressa"><img src="https://img.shields.io/github/followers/siqandressa.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/andressasiqueira/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<!-- <a href="https://github.com/sponsors/terrytangyuan"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
 	<a href="https://scholar.google.com/citations?user=2GYttqUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Citations-1.3k-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
