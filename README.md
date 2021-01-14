@@ -3,11 +3,23 @@
 
 ## Quem sou eu!
 
+Graduada no curso de Engenharia Elétrica com ênfase em Sistema e Computação pela Universidade do Estado do Rio de Janeiro e pós-graduada em Ciência de Dados e Big Data pela Estácio.
+
+Atuo na área tecnológica desde 2007, atualmente estou me especializando na área de Data Science.
+
+Quem me conhece sabe que estou presente em várias redes sociais e em cada uma delas sempre que possível levo um pouco de conhecimento. No meu Instagram é possível ver dicas sobre a área de TI, curiosidades e um pouco do meu dia-a-dia. No meu Blog é possível ler meus textos onde compartilho um pouco do meu conhecimento, vivência e também relatos! No meu Facebook é possível ver o compartilhamento de noticias e artigos cientifícos. Para ir pra qualquer uma das minhas redes sociais, basta clicar na logo da sua rede social preferida!
+
 ## Minhas redes socias
+
+* Site: [https://www.andressasiqueira.com.br/](https://www.andressasiqueira.com.br/)
+* Facebook [https://www.facebook.com/AndressaSiqueiraBr/](https://www.facebook.com/AndressaSiqueiraBr/)
+* Instagram [https://instagram.com/andressa_tech](https://instagram.com/andressa_tech)
+* Blog [https://www.andressasiqueira.com.br/blog](https://www.andressasiqueira.com.br/blog)
+* Linkedin [https://www.linkedin.com/in/andressasiqueira/](https://www.linkedin.com/in/andressasiqueira/)
 
 ## O que você encontrará aqui
 
-Aqui você poderá encontrar códigos dos meus projetos pessoais.
+Aqui você poderá encontrar códigos dos meus projetos pessoais, estudos e desafios! 
 
 ## Um resumo da minha participação aqui no GitHub:
 
@@ -19,7 +31,6 @@ Aqui você poderá encontrar códigos dos meus projetos pessoais.
     </tr>   
   </table>
 </center>  
-
 
 <p align="center">
 	<a href="https://github.com/siqandressa"><img src="https://img.shields.io/github/followers/siqandressa.svg?label=GitHub&style=social" alt="GitHub"></a>
