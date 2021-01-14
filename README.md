@@ -1,8 +1,24 @@
-### Olá! Bem vindo a minha página no Github
+# Olá! Bem vindo a minha página no Github 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+## Quem sou eu!
+
+## Minhas redes socias
+
+## O que você encontrará aqui
 
 Aqui você poderá encontrar códigos dos meus projetos pessoais.
 
+## Um resumo da minha participação aqui no GitHub:
 
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siqandressa&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=siqandressa&theme=buefy" /></td>
+    </tr>   
+  </table>
+</center>  
 
 
 <p align="center">
