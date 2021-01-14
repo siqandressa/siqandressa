@@ -2,9 +2,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## Quem sou eu!
-
-Graduada no curso de Engenharia Elétrica com ênfase em Sistema e Computação pela Universidade do Estado do Rio de Janeiro e pós-graduada em Ciência de Dados e Big Data pela Estácio.
-
 Atuo na área tecnológica desde 2007, atualmente estou me especializando na área de Data Science.
 
 Quem me conhece sabe que estou presente em várias redes sociais e em cada uma delas sempre que possível levo um pouco de conhecimento. No meu Instagram é possível ver dicas sobre a área de TI, curiosidades e um pouco do meu dia-a-dia. No meu Blog é possível ler meus textos onde compartilho um pouco do meu conhecimento, vivência e também relatos! No meu Facebook é possível ver o compartilhamento de noticias e artigos cientifícos. Para ir pra qualquer uma das minhas redes sociais, basta clicar na logo da sua rede social preferida!
