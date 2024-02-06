@@ -6,13 +6,19 @@ Atuo na área tecnológica desde 2007, atualmente estou me especializando na ár
 
 Quem me conhece sabe que estou presente em várias redes sociais e em cada uma delas sempre que possível levo um pouco de conhecimento. No meu Instagram é possível ver dicas sobre a área de TI, curiosidades e um pouco do meu dia-a-dia. No meu Blog é possível ler meus textos onde compartilho um pouco do meu conhecimento, vivência e também relatos! No meu Facebook é possível ver o compartilhamento de noticias e artigos cientifícos. Para ir pra qualquer uma das minhas redes sociais, basta clicar na logo da sua rede social preferida!
 
-## Minhas redes socias
+## Algumas das minhas redes
+
+<p align="left">
+<a href="https://linkedin.com/in/andressasiqueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andressasiqueira" height="30" width="40" /></a>
+<a href="https://instagram.com/andressa_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andressa_tech" height="30" width="40" /></a>
+<a href="/https://www.andressasiqueira.com.br/blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.andressasiqueira.com.br/blog" height="30" width="40" /></a>
+<a href="https://fb.com/AndressaSiqueiraBr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aa" height="30" width="40" /></a>
+</p>
+
+### Outros
 
 * Site: [https://www.andressasiqueira.com.br/](https://www.andressasiqueira.com.br/)
-* Facebook [https://www.facebook.com/AndressaSiqueiraBr/](https://www.facebook.com/AndressaSiqueiraBr/)
-* Instagram [https://instagram.com/andressa_tech](https://instagram.com/andressa_tech)
-* Blog [https://www.andressasiqueira.com.br/blog](https://www.andressasiqueira.com.br/blog)
-* Linkedin [https://www.linkedin.com/in/andressasiqueira/](https://www.linkedin.com/in/andressasiqueira/)
+
 
 ## O que você encontrará aqui
 
